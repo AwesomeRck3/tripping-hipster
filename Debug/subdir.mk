@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../L2E224.cpp 
+../L3E32.cpp 
 
 OBJS += \
-./L2E224.o 
+./L3E32.o 
 
 CPP_DEPS += \
-./L2E224.d 
+./L3E32.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
